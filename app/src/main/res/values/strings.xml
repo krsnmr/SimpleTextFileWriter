@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Тексты</string>
+    <string name="save_btn_text">Сохранить</string>
+    <string name="edit_text_hint">Текст</string>
+</resources>
